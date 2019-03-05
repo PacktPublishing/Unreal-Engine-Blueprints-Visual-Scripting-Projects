@@ -61,7 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Mastering Game Development with Unreal Engine 4 - Second Edition [[Packt]](https://www.packtpub.com/game-development/mastering-game-development-unreal-engine-4-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991445) [[Amazon]](https://www.amazon.com/dp/1788991443)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Lauren S. Ferro**
 Lauren S. Ferro has a Ph.D. in player profiling and modeling. She is currently an Adjunct Professor and researcher at Sapienza University, in Rome. Lauren is also the co-organizer of the Unreal Engine Meetup in Rome. In addition, she created the game design resource, Gamicards, which is a prototyping tool for game experiences. At heart, she is intrigued by how we interact with the world and those in it.
 
