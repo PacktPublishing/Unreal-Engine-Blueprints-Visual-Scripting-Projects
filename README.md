@@ -9,7 +9,7 @@ This is the code repository for [Unreal Engine Blueprints Visual Scripting Proje
 ## What is this book about?
 The Blueprints Visual Scripting system helps you to create gameplay elements from within Unreal Engine. This book will provide you with the essential foundation to learn how to build complex game mechanics quickly and easily without writing any code.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Set up Unreal Engine and all of its foundational components
 * Add basic movement to game objects and create collision mechanism
 * Design and implement interfaces to extend player interaction
