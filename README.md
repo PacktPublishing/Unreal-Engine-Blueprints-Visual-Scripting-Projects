@@ -57,21 +57,17 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789532425_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Learning C++ by Building Games with Unreal Engine 4 - Second Edition [[Packt]](https://www.packtpub.com/game-development/learning-c-building-games-unreal-engine-4-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788476249) [[Amazon]](https://www.amazon.com/dp/1788476247)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Mastering Game Development with Unreal Engine 4 - Second Edition [[Packt]](https://www.packtpub.com/game-development/mastering-game-development-unreal-engine-4-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788991445) [[Amazon]](https://www.amazon.com/dp/1788991443)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
+**Lauren S. Ferro**
+Lauren S. Ferro has a Ph.D. in player profiling and modeling. She is currently an Adjunct Professor and researcher at Sapienza University, in Rome. Lauren is also the co-organizer of the Unreal Engine Meetup in Rome. In addition, she created the game design resource, Gamicards, which is a prototyping tool for game experiences. At heart, she is intrigued by how we interact with the world and those in it.
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Unity 2017 2D Game Development Projects](https://www.packtpub.com/game-development/unity-2017-2d-game-development-projects?utm_source=github&utm_medium=repository&utm_campaign=9781786460271)
+* [Gamification with Unity 5.x](https://www.packtpub.com/game-development/gamification-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781786463487)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
